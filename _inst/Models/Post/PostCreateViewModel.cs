@@ -12,8 +12,7 @@ namespace _inst.Models.Post
 
         public PostCreateViewModel()
         {
-            Random random = new Random();
-            PhotoPath = "https://image.freepik.com/free-photo/tropical-green-leaves-background_53876-88" + random.Next(90, 600) + ".jpg";
+            PhotoPath = "https://cdn.pixabay.com/photo/2020/07/15/11/22/raspberry-5407356_960_720.jpg";
         }
     }
 }

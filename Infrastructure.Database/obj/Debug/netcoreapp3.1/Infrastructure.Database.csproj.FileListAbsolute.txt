@@ -1,0 +1,14 @@
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\bin\Debug\netcoreapp3.1\Infrastructure.Database.deps.json
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\bin\Debug\netcoreapp3.1\Infrastructure.Database.dll
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\bin\Debug\netcoreapp3.1\Infrastructure.Database.pdb
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\bin\Debug\netcoreapp3.1\Domain.Model.dll
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\bin\Debug\netcoreapp3.1\Infrastructure.EntityFramework.dll
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\bin\Debug\netcoreapp3.1\Domain.Model.pdb
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\bin\Debug\netcoreapp3.1\Infrastructure.EntityFramework.pdb
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\obj\Debug\netcoreapp3.1\Infrastructure.Database.csprojAssemblyReference.cache
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\obj\Debug\netcoreapp3.1\Infrastructure.Database.AssemblyInfoInputs.cache
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\obj\Debug\netcoreapp3.1\Infrastructure.Database.AssemblyInfo.cs
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\obj\Debug\netcoreapp3.1\Infrastructure.Database.csproj.CoreCompileInputs.cache
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\obj\Debug\netcoreapp3.1\Infrastructure.Database.csproj.CopyComplete
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\obj\Debug\netcoreapp3.1\Infrastructure.Database.dll
+C:\Users\askar\source\repos\_inst\Infrastructure.Database\obj\Debug\netcoreapp3.1\Infrastructure.Database.pdb

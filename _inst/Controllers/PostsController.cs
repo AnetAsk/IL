@@ -147,9 +147,17 @@ namespace _inst.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> AddLike(int id)
+        public async Task<IActionResult> AddLike(int id, bool isLiked)
         {
             var post = await _uow.PostRepository.GetAsync(id);
+            if(isLiked == true)
+            {
+                post.LikeCount -= 1;
+            }
+            else
+            {
+                post.LikeCount += 1;
+            }
             post.LikeCount += 1;
             await _uow.Save();
             return RedirectToAction(nameof(Index));

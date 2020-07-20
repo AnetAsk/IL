@@ -1,0 +1,15 @@
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\bin\Debug\netcoreapp3.1\Infrastructure.EntityFramework.deps.json
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\bin\Debug\netcoreapp3.1\Infrastructure.EntityFramework.runtimeconfig.json
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\bin\Debug\netcoreapp3.1\Infrastructure.EntityFramework.runtimeconfig.dev.json
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\bin\Debug\netcoreapp3.1\Infrastructure.EntityFramework.dll
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\bin\Debug\netcoreapp3.1\Infrastructure.EntityFramework.pdb
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\bin\Debug\netcoreapp3.1\Domain.Model.dll
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\bin\Debug\netcoreapp3.1\Domain.Model.pdb
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\obj\Debug\netcoreapp3.1\Infrastructure.EntityFramework.csprojAssemblyReference.cache
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\obj\Debug\netcoreapp3.1\Infrastructure.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\obj\Debug\netcoreapp3.1\Infrastructure.EntityFramework.AssemblyInfo.cs
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\obj\Debug\netcoreapp3.1\Infrastructure.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\obj\Debug\netcoreapp3.1\Infrastructure.EntityFramework.csproj.CopyComplete
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\obj\Debug\netcoreapp3.1\Infrastructure.EntityFramework.dll
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\obj\Debug\netcoreapp3.1\Infrastructure.EntityFramework.pdb
+C:\Users\askar\source\repos\_inst\Infrastructure.EntityFramework\obj\Debug\netcoreapp3.1\Infrastructure.EntityFramework.genruntimeconfig.cache
