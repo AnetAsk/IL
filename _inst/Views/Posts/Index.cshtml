@@ -1,0 +1,54 @@
+﻿@model IEnumerable<_inst.Models.Post.PostIndexViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a asp-action="Create" asp-controller="Posts">Добавить пост</a>
+
+<div id="posts">
+        
+    </div>
+@section scripts
+{
+    <script>
+
+        function showPosts() {
+            $.ajax({
+                type: "GET",
+                url: "/Posts/GetPosts",
+                success: function(res) {
+                    $("#posts").html(res);
+                }
+            });
+        }
+
+        showPosts();
+
+        function onLikeHandler(id, e) {
+            var url = '@Url.Action("AddLike", "Posts")?id=' + id;
+            
+            $.ajax({
+                type: "GET",
+                url: url,
+                success: function (res) {
+                    showPosts();
+                },
+                error: function (res) {
+                    alert("Error");
+                }
+            });
+        }
+
+        likeThisPostHandler = (e) => {
+            if (e.target.classList.contains('like')) {
+                var parent = e.target.closest(".post-item");
+                onLikeHandler(parent.id);
+                
+            }
+        }
+        var cardRow = document.querySelector("#posts").addEventListener("click", likeThisPostHandler);
+
+    </script>
+}
